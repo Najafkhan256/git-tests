@@ -12,3 +12,5 @@ module.exports = {
   ab,
   de,
 };
+
+console.log('red')
